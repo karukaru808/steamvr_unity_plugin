@@ -81,6 +81,8 @@ namespace Valve.VR
 
         private void Awake()
         {
+            //恐らく要らない
+            //削除してテストしてみたい
             OnEnable();
         }
 
